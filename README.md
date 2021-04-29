@@ -1,2 +1,2 @@
 # fourPhaseHandshake
-A model that simulates the four phase hand shake, and its test bench 
+A model that simulates the four phase hand shake, and its test bench, and the constraint file 
